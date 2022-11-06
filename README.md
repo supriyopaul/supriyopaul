@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @supriyopaul
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking for Food projects, Devops automation projects and learning Web scraping, AI and Machine learning
+- 📫 paul.supriyo.paul@gmail.com
