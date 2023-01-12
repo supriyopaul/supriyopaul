@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @supriyopaul
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking for Food projects, Devops automation projects and learning Web scraping, AI and Machine learning
-- 📫 paul.supriyo.paul@gmail.com
+- 🧑🏽‍💻 Python dev, DevOps, Automation.
+- 🧠 Presently navigating the world of knowledge graphs.
+- 🎓 Aspiring system architect.
+- 🍿 Pastime: Badminton, Volleyball, Anime, Docuseries.
+- ㊗️ Learning NLP
+- 📚 Awesome authors: Yuval Noah Harari, Paulo Coelho.
+- 🤔 Philosophies: The Zen of Python, by Tim Peters. Unix philosophy.
