@@ -4,7 +4,7 @@
 - 🎓 Aspiring system architect.
 - 🛁 Strong advocate for clean code and maintainability.
 - 📚 Continuously learning and expanding skill set.
--  ㊗️ Learning NLP.
+- ㊗️ Learning NLP.
 - 🍿 Pastime: Badminton, Volleyball, Anime, Docuseries.
 - 📚 Awesome authors: Yuval Noah Harari, Paulo Coelho.
 - 🤔 Philosophies: The Zen of Python, by Tim Peters. Unix philosophy.
