@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @supriyopaul
 - 🧑🏽‍💻 Python dev, DevOps, Automation.
 - 🧠 Presently navigating the world of knowledge graphs.
+- ㊗️ Learning NLP.
 - 🎓 Aspiring system architect.
 - 🛁 Strong advocate for clean code and maintainability.
 - 📚 Continuously learning and expanding skill set.
-- ㊗️ Learning NLP.
 - 🍿 Pastime: Badminton, Volleyball, Anime, Docuseries.
 - 📚 Awesome authors: Yuval Noah Harari, Paulo Coelho.
 - 🤔 Philosophies: The Zen of Python, by Tim Peters. Unix philosophy.
